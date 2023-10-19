@@ -10,7 +10,7 @@ export const SiderUserProfile = ({
   financialManager,
 }: SiderUserProps) => {
   return (
-    <div className="w-40 h-10 mt-3 relative bg-slate-200 rounded-full items-center justify-center">
+    <div className="w-44 h-10 mt-8 relative bg-slate-200 rounded-full items-center justify-center">
       <div className="w-6 h-6 left-[4px] top-[4px] absolute mt-1 bg-pink-700 rounded-full">
         <Image src="./images/Circle.svg" alt="Circle" width={26} height={26} />
       </div>

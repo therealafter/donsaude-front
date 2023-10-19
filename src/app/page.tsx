@@ -1,5 +1,10 @@
+import { Button } from "@/components/Button";
+import { Header } from "@/ui/Header";
 import Image from "next/image";
 
 export default function Home() {
-  return <h1>Hello World</h1>;
+  return (
+    <div className="bg-[#F2F4F7] w-full h-full">
+    </div>
+  );
 }
